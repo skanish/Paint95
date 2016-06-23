@@ -1,0 +1,66 @@
+.red{
+    background-color: crimson;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.blue{
+    background-color: dodgerblue;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+.green{
+    background-color: lawngreen;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.pink{
+    background-color: deeppink;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.purple{
+    background-color: purple;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.pixels{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+
+}
+
+.button{
+    border: 1px solid black;
+}
+
+.columns{
+    display:inline-block;
+    margin-top: 10px;
+}
+
+.ClearButton{
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    font-family: "Arial";
+    font-size: 30px;
+    text-align: center;
+}
